@@ -8,6 +8,7 @@ Difficulty    : Medium
 Deploy on Railway / Render / Fly.io — no local machine needed.
 """
 
+import os
 import json
 import base64
 from datetime import datetime, timedelta, timezone
